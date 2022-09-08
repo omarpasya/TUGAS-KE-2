@@ -1,0 +1,18 @@
+.logo i {
+    font-size: 20px;
+}
+
+.logo {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.icon {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.icon i {
+    font-size: 20px;
+        color: rgb(8, 11, 11);
+}
